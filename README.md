@@ -43,12 +43,4 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🍽️ **Catering Management System** | Architected an integrated full-stack application deployed on cloud infrastructure to streamline order processing and dynamic menu management. | `Vue.js`, `Node.js`, `MongoDB`, `RESTful APIs` |
-| 🎤 **Conference Management System** | Engineered a robust event management platform featuring secure APIs, automated E2E testing, and a fully automated CI/CD deployment pipeline. | `Angular`, `Spring Boot`, `Jenkins`, `Playwright` |
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=timothylai53&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=timothylai53&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+| 🍽️ **Catering Management System** | Architected an integrated full-stack application deployed on cloud infrastructure to streamline order processing and dynamic menu management. | `Vue.
