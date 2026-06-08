@@ -1,43 +1,49 @@
-[cite_start]<h1 align="center">Hi 👋, I'm Timothy Lai Jun Hong [cite: 1]</h1>
-<h3 align="center">Software Engineering Student @ UUM | [cite_start]Seeking 2026/2027 Internship [cite: 13, 16, 18]</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Timothy!+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Developer;Seeking+an+Internship!" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timothy-lai-jun-hong-597442118/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> [cite: 4]
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:timothylai53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> [cite: 3]
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=timothylai53&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</div>
+
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-* [cite_start]I am currently pursuing a Bachelor of Science with Honours in Information Technology, majoring in Software Engineering at Universiti Utara Malaysia (UUM)[cite: 16, 17, 18].
-* [cite_start]I am actively seeking a six-month Software Engineer Internship from September 22, 2026, to March 22, 2027[cite: 13, 14].
-* [cite_start]My technical focus is on full-stack web application development, RESTful API integration, and automated CI/CD deployment pipelines[cite: 13, 24, 29].
-* [cite_start]When I step away from the keyboard, I am a live band performer at various UUM campus events[cite: 53, 54].
+- 🎓 **Education:** Software Engineering student at Universiti Utara Malaysia (UUM).
+- 💼 **Objective:** Seeking a 6-month Software Engineer Internship (Sept 22, 2026 - Mar 22, 2027).
+- 💻 **Current Focus:** Developing a full-stack Catering Management System for my Final Year Project.
+- 🥁 **Interests:** Live band performer, guitarist, and drummer when I am away from the screen.
 
-## 🛠️ Tech Stack & Tools
-
-[cite_start]**Languages:** Java, JavaScript, TypeScript, PHP, SQL [cite: 33]  
-[cite_start]**Frontend Frameworks:** Angular, Vue.js, Bootstrap, HTML, CSS [cite: 33, 34]  
-[cite_start]**Backend Frameworks:** Spring Boot, Node.js [cite: 34]  
-[cite_start]**Databases & DevOps:** MongoDB, MySQL, Docker, Jenkins, DigitalOcean, Git, GitHub [cite: 35]  
-[cite_start]**Testing & Automation:** Playwright, Selenium, JUnit [cite: 36]  
-
-## 🚀 Featured Projects
-
-| Project Name | Architecture & Features | Tech Stack |
-|--------------|-------------------------|------------|
-| [cite_start]**Web-Based Catering Management System** [cite: 23] | [cite_start]Architected an integrated full-stack application deployed on cloud infrastructure to streamline order processing and dynamic menu management for catering providers[cite: 27]. | [cite_start]Vue.js, Node.js, MongoDB, DigitalOcean, RESTful APIs [cite: 24] |
-| [cite_start]**Web-Based Conference Management System** [cite: 28] | [cite_start]Engineered a robust event management platform featuring secure APIs, automated E2E testing, and a fully automated CI/CD deployment pipeline[cite: 30]. | [cite_start]Angular, Java Spring Boot, Jenkins, Playwright [cite: 29] |
-
-## 📊 GitHub Activity
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  [cite_start]<img src="https://github-readme-stats.vercel.app/api?username=timothylai53&show_icons=true&theme=radical&hide_border=true" alt="Timothy's GitHub Stats" /> [cite: 11]
-  <br/>
-  [cite_start]<img src="https://github-readme-streak-stats.herokuapp.com/?user=timothylai53&theme=radical&hide_border=true" alt="Timothy's Contribution Streak" /> [cite: 11]
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,php,html,css,spring,angular,vue,nodejs,mongodb,mysql,docker,jenkins,git,github,postman,figma&perline=9" alt="My Skills" />
+  </a>
+</div>
+
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🍽️ **Catering Management System** | Architected an integrated full-stack application deployed on cloud infrastructure to streamline order processing and dynamic menu management. | `Vue.js`, `Node.js`, `MongoDB`, `RESTful APIs` |
+| 🎤 **Conference Management System** | Engineered a robust event management platform featuring secure APIs, automated E2E testing, and a fully automated CI/CD deployment pipeline. | `Angular`, `Spring Boot`, `Jenkins`, `Playwright` |
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timothylai53&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothylai53&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
