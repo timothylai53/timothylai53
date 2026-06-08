@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://timothylai53.github.io" target="_blank">
+  <a href="https://timothylai53.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/timothy-lai-jun-hong-597442118/" target="_blank">
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-> 🌐 **Explore My Live Portfolio:** Check out my fully interactive portfolio website at [timothylai53.github.io](https://timothylai53.github.io) to view my live project deployments, digital resume, and interactive coding journey.
+> 🌐 **Explore My Live Portfolio:** Check out my fully interactive portfolio website at [timothylai53.github.io](https://timothylai53.github.io/) to view my live project deployments, digital resume, and interactive coding journey.
 
 ---
 
