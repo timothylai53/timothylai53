@@ -21,7 +21,6 @@
 | 🎓 **Education** | B.Sc. Software Engineering, Universiti Utara Malaysia (UUM). Graduating Nov 2027. |
 | 💼 **Currently** | Software Engineer Intern (Sept 2026 – Mar 2027). |
 | 💻 **Building** | A full-stack Catering Management System for my Final Year Project. |
-| 🥁 **Off-screen** | Live band performer: guitar and drums. |
 
 ### 🛠️ Tech Stack
 
