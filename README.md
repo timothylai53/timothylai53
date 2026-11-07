@@ -18,7 +18,7 @@
 
 | | |
 | :---: | :--- |
-| 🎓 **Education** | Software Engineering student at Universiti Utara Malaysia (UUM). |
+| 🎓 **Education** | B.Sc. Software Engineering, Universiti Utara Malaysia (UUM). Graduating Nov 2027. |
 | 💼 **Currently** | Software Engineer Intern (Sept 2026 – Mar 2027). |
 | 💻 **Building** | A full-stack Catering Management System for my Final Year Project. |
 | 🥁 **Off-screen** | Live band performer: guitar and drums. |
@@ -36,8 +36,8 @@
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| 🛡️ **Vulnerability Management Reporting Dashboard** <br/><sub>Latest · Internship project · Private repo</sub> | Turns monthly vulnerability-management reports that were built by hand in Excel into a web dashboard. Users upload the raw datasets, which are validated and run through SLA, priority and remediation business rules. The reports appear on screen with filters, drill-downs and month-to-month trends, and download as Excel workbooks with live PivotTables. Also ships as command-line scripts. | `Python` `FastAPI` `pandas` `PostgreSQL` `React` `TypeScript` |
-| 🎓 **[ScholarSync](https://github.com/timothylai53/Web-Conference-Management-System)** <br/><sub>Team lead (8 people)</sub> | Academic conference platform covering paper submission, reviewer assignment and scoring, rebuttals, scheduling and registration payments. Built and shipped through a Jenkins pipeline that builds versioned Docker images for the frontend and backend. | `Spring Boot` `Angular` `MySQL` `Docker` `Jenkins` |
+| 🛡️ **Vulnerability Management Reporting Dashboard** <br/><sub>Latest · Internship project · Private repo</sub> | Turns monthly vulnerability-management reports that were built by hand in Excel into a web dashboard, **cutting report preparation from ~2 hours to 5 minutes**. Users upload the raw datasets, which are validated and run through SLA, priority and remediation business rules. The reports appear on screen with filters, drill-downs and month-to-month trends, and download as Excel workbooks with live PivotTables. Also ships as command-line scripts. | `Python` `FastAPI` `pandas` `PostgreSQL` `React` `TypeScript` |
+| 🎓 **[ScholarSync](https://github.com/timothylai53/Web-Conference-Management-System)** <br/><sub>Team lead (8 people)</sub> | **I split the work across the team, led the frontend build, combined everyone's pages into one consistent Angular app, and supported the Jenkins testing setup.** Academic conference platform covering paper submission, reviewer assignment and scoring, rebuttals, scheduling and registration payments. Built and shipped through a Jenkins pipeline that builds versioned Docker images for the frontend and backend. | `Spring Boot` `Angular` `MySQL` `Docker` `Jenkins` |
 | 🍽️ **[Catering Management System](https://github.com/timothylai53/Web-CMS)** <br/><sub>Final Year Project</sub> | Customer ordering, quotation requests and Stripe payments, plus an admin side for menus, event scheduling, order and delivery tracking, kitchen inventory and sales reports. Includes JWT role-based auth, SendGrid emails and a Gemini-powered assistant. | `Vue 3` `Pinia` `Node.js` `Express` `MongoDB` |
 | 📦 **[Real-Time Stock Management](https://github.com/timothylai53/REAL-TIME-STOCK-MANAGEMENT-SYSTEM)** | Multi-threaded client–server inventory system in plain Java. Uses a thread per client, lock ordering to avoid deadlock, ReentrantLock and parallel streams, and includes a concurrent stress-test suite. | `Java 17` `Sockets` `Concurrency` |
 | 🍜 **[Campus Food Review](https://github.com/timothylai53/Campus-Food-Review)** | Students post, search, like and comment on campus meal reviews with photos. Includes user accounts and a statistics page. | `PHP` `MySQL` `HTML/CSS` `JavaScript` |
